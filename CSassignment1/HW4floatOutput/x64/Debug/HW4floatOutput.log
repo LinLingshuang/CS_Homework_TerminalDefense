@@ -1,0 +1,3 @@
+﻿  HW4floatOutput.cpp
+E:\ProgramCode\Visaul_Studio_Code\CSassignment1\HW4floatOutput\HW4floatOutput.cpp(80,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  HW4floatOutput.vcxproj -> E:\ProgramCode\Visaul_Studio_Code\CSassignment1\x64\Debug\HW4floatOutput.exe
