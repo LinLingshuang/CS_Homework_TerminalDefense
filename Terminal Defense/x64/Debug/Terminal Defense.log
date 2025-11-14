@@ -1,0 +1,22 @@
+﻿  outputTest.cpp
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(7,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(8,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(8,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(9,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(9,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(10,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(10,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(11,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(11,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(12,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(12,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(13,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(13,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(14,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(14,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(15,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(15,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(16,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(16,10): error C2001: 常量中有换行符
+E:\ProgramCode\Visaul_Studio_Code\Terminal Defense\Terminal Defense\outputTest.cpp(17,2): error C2146: 语法错误: 缺少“;”(在标识符“cout”的前面)
